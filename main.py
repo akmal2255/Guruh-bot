@@ -6,6 +6,7 @@ from aiogram.filters import CommandStart, and_f
 from config import bot_token
 import time
 
+
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=bot_token)
 dp = Dispatcher()

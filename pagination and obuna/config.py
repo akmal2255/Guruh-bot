@@ -1,0 +1,2 @@
+token = "8059780984:AAFGfwn-rLWnGLXSPAHZT5Nu4s4Gbbe05vk"
+Kanal_id = -1003882135691
